@@ -1,8 +1,9 @@
 
 # PMReport
 
-This application will extract awr miner ouput data to excel that will easier to analyze and process.
 This is Java Swing application build on Netbeans 26.
+
+This application will extract awr miner ouput data to excel that will easier to analyze and process.
 
 
 ## Authors
